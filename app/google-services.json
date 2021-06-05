@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209734762102",
+    "project_id": "rideapp-3d93a",
+    "storage_bucket": "rideapp-3d93a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209734762102:android:3eb63f051c26434005a957",
+        "android_client_info": {
+          "package_name": "com.example.ridetheroad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209734762102-fllhic2fb1r76emnj24au622bg3e5ft3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOMl5OEVpnM_IbIbtCUcTLYPj14enTIjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209734762102-fllhic2fb1r76emnj24au622bg3e5ft3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
